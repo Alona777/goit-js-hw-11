@@ -5,7 +5,6 @@ para conocer y personalizar las funciones adicionales.
 
 ## Preparación de un nuevo proyecto
 
-
 1. Asegúrate de que la versión LTS de Node.js está instalada en tu equipo.
    [Descárgala e instálala](https://nodejs.org/en/) si es necesario.
 2. Clona este repositorio.
